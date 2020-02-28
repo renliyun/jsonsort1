@@ -1,0 +1,727 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="jsonsort:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="23138d47-dc24-44b6-8455-ae8ae903f02a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/jsonsort.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tz/JsonSortServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tz/entity/CompartorS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studymaterials/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studymaterials/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studymaterials/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studymaterials/.idea/libraries/Maven__antlr_antlr_2_7_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studymaterials/.idea/libraries/Maven__aopalliance_aopalliance_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studymaterials/.idea/libraries/Maven__cglib_cglib_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studymaterials/.idea/libraries/Maven__ch_netzwerg_paleo_core_0_11_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studymaterials/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studymaterials/.idea/libraries/Maven__ch_qos_logback_logback_core_1_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studymaterials/.idea/libraries/Maven__com_alibaba_arms_apm_arms_sdk_1_7_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studymaterials/.idea/libraries/Maven__com_alibaba_easyexcel_2_1_0_beta4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studymaterials/.idea/libraries/Maven__com_alibaba_fastjson_1_2_61.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studymaterials/.idea/libraries/Maven__com_alibaba_tamper_tamper_1_0_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studymaterials/.idea/libraries/Maven__com_aliyun_aliyun_java_sdk_core_3_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studymaterials/.idea/libraries/Maven__com_aliyun_aliyun_java_sdk_dysmsapi_1_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studymaterials/.idea/libraries/Maven__com_baomidou_mybatis_plus_3_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studymaterials/.idea/libraries/Maven__com_baomidou_mybatis_plus_annotation_3_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studymaterials/.idea/libraries/Maven__com_baomidou_mybatis_plus_boot_starter_3_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studymaterials/.idea/libraries/Maven__com_baomidou_mybatis_plus_core_3_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studymaterials/.idea/libraries/Maven__com_baomidou_mybatis_plus_extension_3_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studymaterials/.idea/libraries/Maven__com_beust_jcommander_1_35.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studymaterials/.idea/libraries/Maven__com_bitsun_core_bitsun_core_framework_1_0_SNAPSHOT.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studymaterials/.idea/libraries/Maven__com_ctrip_framework_apollo_apollo_client_1_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studymaterials/.idea/libraries/Maven__com_ctrip_framework_apollo_apollo_core_1_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studymaterials/.idea/libraries/Maven__com_fasterxml_classmate_1_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studymaterials/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_9_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studymaterials/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_9_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studymaterials/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_9_9_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studymaterials/.idea/libraries/Maven__com_fasterxml_jackson_dataformat_jackson_dataformat_yaml_2_9_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studymaterials/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jdk8_2_9_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studymaterials/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jsr310_2_9_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studymaterials/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_afterburner_2_9_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studymaterials/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_parameter_names_2_9_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studymaterials/.idea/libraries/Maven__com_fasterxml_woodstox_woodstox_core_5_0_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studymaterials/.idea/libraries/Maven__com_github_binarywang_qrcode_utils_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studymaterials/.idea/libraries/Maven__com_github_binarywang_weixin_java_common_3_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studymaterials/.idea/libraries/Maven__com_github_binarywang_weixin_java_mp_3_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studymaterials/.idea/libraries/Maven__com_github_binarywang_weixin_java_pay_3_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studymaterials/.idea/libraries/Maven__com_github_fge_btf_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studymaterials/.idea/libraries/Maven__com_github_fge_jackson_coreutils_1_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studymaterials/.idea/libraries/Maven__com_github_fge_json_patch_1_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studymaterials/.idea/libraries/Maven__com_github_fge_msg_simple_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studymaterials/.idea/libraries/Maven__com_github_fge_uri_template_0_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studymaterials/.idea/libraries/Maven__com_github_java_json_tools_json_schema_core_1_2_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studymaterials/.idea/libraries/Maven__com_github_java_json_tools_json_schema_validator_2_2_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studymaterials/.idea/libraries/Maven__com_github_jsqlparser_jsqlparser_1_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studymaterials/.idea/libraries/Maven__com_github_virtuald_curvesapi_1_04.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studymaterials/.idea/libraries/Maven__com_google_code_findbugs_jsr305_3_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studymaterials/.idea/libraries/Maven__com_google_code_gson_gson_2_8_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studymaterials/.idea/libraries/Maven__com_google_guava_guava_20_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studymaterials/.idea/libraries/Maven__com_google_inject_guice_4_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studymaterials/.idea/libraries/Maven__com_google_zxing_core_3_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studymaterials/.idea/libraries/Maven__com_googlecode_libphonenumber_libphonenumber_8_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studymaterials/.idea/libraries/Maven__com_jayway_jsonpath_json_path_2_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studymaterials/.idea/libraries/Maven__com_netflix_archaius_archaius_core_0_7_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studymaterials/.idea/libraries/Maven__com_netflix_eureka_eureka_client_1_9_13.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studymaterials/.idea/libraries/Maven__com_netflix_eureka_eureka_core_1_9_13.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studymaterials/.idea/libraries/Maven__com_netflix_hystrix_hystrix_core_1_5_18.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studymaterials/.idea/libraries/Maven__com_netflix_hystrix_hystrix_javanica_1_5_18.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studymaterials/.idea/libraries/Maven__com_netflix_hystrix_hystrix_metrics_event_stream_1_5_18.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studymaterials/.idea/libraries/Maven__com_netflix_hystrix_hystrix_serialization_1_5_18.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studymaterials/.idea/libraries/Maven__com_netflix_netflix_commons_netflix_commons_util_0_3_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studymaterials/.idea/libraries/Maven__com_netflix_netflix_commons_netflix_eventbus_0_3_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studymaterials/.idea/libraries/Maven__com_netflix_netflix_commons_netflix_infix_0_3_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studymaterials/.idea/libraries/Maven__com_netflix_netflix_commons_netflix_statistics_0_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studymaterials/.idea/libraries/Maven__com_netflix_ribbon_ribbon_2_3_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studymaterials/.idea/libraries/Maven__com_netflix_ribbon_ribbon_core_2_3_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studymaterials/.idea/libraries/Maven__com_netflix_ribbon_ribbon_eureka_2_3_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studymaterials/.idea/libraries/Maven__com_netflix_ribbon_ribbon_httpclient_2_3_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studymaterials/.idea/libraries/Maven__com_netflix_ribbon_ribbon_loadbalancer_2_3_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studymaterials/.idea/libraries/Maven__com_netflix_ribbon_ribbon_transport_2_3_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studymaterials/.idea/libraries/Maven__com_netflix_servo_servo_core_0_12_21.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studymaterials/.idea/libraries/Maven__com_squareup_okhttp3_okhttp_3_8_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studymaterials/.idea/libraries/Maven__com_squareup_okio_okio_1_13_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studymaterials/.idea/libraries/Maven__com_sun_jersey_contribs_jersey_apache_client4_1_19_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studymaterials/.idea/libraries/Maven__com_sun_jersey_jersey_client_1_19_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studymaterials/.idea/libraries/Maven__com_sun_jersey_jersey_core_1_19_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studymaterials/.idea/libraries/Maven__com_thoughtworks_xstream_xstream_1_4_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studymaterials/.idea/libraries/Maven__com_vaadin_external_google_android_json_0_0_20131108_vaadin1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studymaterials/.idea/libraries/Maven__com_zaxxer_HikariCP_3_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studymaterials/.idea/libraries/Maven__commons_beanutils_commons_beanutils_1_9_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studymaterials/.idea/libraries/Maven__commons_beanutils_commons_beanutils_1_9_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studymaterials/.idea/libraries/Maven__commons_codec_commons_codec_1_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studymaterials/.idea/libraries/Maven__commons_collections_commons_collections_3_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studymaterials/.idea/libraries/Maven__commons_collections_commons_collections_3_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studymaterials/.idea/libraries/Maven__commons_configuration_commons_configuration_1_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studymaterials/.idea/libraries/Maven__commons_fileupload_commons_fileupload_1_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studymaterials/.idea/libraries/Maven__commons_io_commons_io_2_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studymaterials/.idea/libraries/Maven__commons_jxpath_commons_jxpath_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studymaterials/.idea/libraries/Maven__commons_lang_commons_lang_2_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studymaterials/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studymaterials/.idea/libraries/Maven__dom4j_dom4j_1_6_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studymaterials/.idea/libraries/Maven__io_github_openfeign_feign_core_10_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studymaterials/.idea/libraries/Maven__io_github_openfeign_feign_httpclient_10_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studymaterials/.idea/libraries/Maven__io_github_openfeign_feign_hystrix_10_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studymaterials/.idea/libraries/Maven__io_github_openfeign_feign_slf4j_10_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studymaterials/.idea/libraries/Maven__io_github_openfeign_form_feign_form_3_8_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studymaterials/.idea/libraries/Maven__io_github_openfeign_form_feign_form_spring_3_8_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studymaterials/.idea/libraries/Maven__io_github_swagger2markup_markup_document_builder_1_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studymaterials/.idea/libraries/Maven__io_github_swagger2markup_swagger2markup_1_3_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studymaterials/.idea/libraries/Maven__io_jsonwebtoken_jjwt_0_9_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studymaterials/.idea/libraries/Maven__io_lettuce_lettuce_core_5_1_8_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studymaterials/.idea/libraries/Maven__io_micrometer_micrometer_core_1_1_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studymaterials/.idea/libraries/Maven__io_netty_netty_all_4_1_39_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studymaterials/.idea/libraries/Maven__io_netty_netty_buffer_4_1_39_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studymaterials/.idea/libraries/Maven__io_netty_netty_codec_4_1_39_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studymaterials/.idea/libraries/Maven__io_netty_netty_common_4_1_39_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studymaterials/.idea/libraries/Maven__io_netty_netty_handler_4_1_39_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studymaterials/.idea/libraries/Maven__io_netty_netty_resolver_4_1_39_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studymaterials/.idea/libraries/Maven__io_netty_netty_tcnative_boringssl_static_2_0_25_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studymaterials/.idea/libraries/Maven__io_netty_netty_transport_4_1_39_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studymaterials/.idea/libraries/Maven__io_projectreactor_reactor_core_3_2_12_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studymaterials/.idea/libraries/Maven__io_reactivex_rxjava_1_3_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studymaterials/.idea/libraries/Maven__io_reactivex_rxjava_reactive_streams_1_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studymaterials/.idea/libraries/Maven__io_reactivex_rxnetty_0_4_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studymaterials/.idea/libraries/Maven__io_reactivex_rxnetty_contexts_0_4_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studymaterials/.idea/libraries/Maven__io_reactivex_rxnetty_servo_0_4_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studymaterials/.idea/libraries/Maven__io_springfox_springfox_core_2_9_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studymaterials/.idea/libraries/Maven__io_springfox_springfox_schema_2_9_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studymaterials/.idea/libraries/Maven__io_springfox_springfox_spi_2_9_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studymaterials/.idea/libraries/Maven__io_springfox_springfox_spring_web_2_9_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studymaterials/.idea/libraries/Maven__io_springfox_springfox_swagger2_2_9_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studymaterials/.idea/libraries/Maven__io_springfox_springfox_swagger_common_2_9_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studymaterials/.idea/libraries/Maven__io_springfox_springfox_swagger_ui_2_9_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studymaterials/.idea/libraries/Maven__io_swagger_swagger_annotations_1_5_23.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studymaterials/.idea/libraries/Maven__io_swagger_swagger_compat_spec_parser_1_0_35.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studymaterials/.idea/libraries/Maven__io_swagger_swagger_core_1_5_19.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studymaterials/.idea/libraries/Maven__io_swagger_swagger_models_1_5_23.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studymaterials/.idea/libraries/Maven__io_swagger_swagger_parser_1_0_35.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studymaterials/.idea/libraries/Maven__io_vavr_vavr_0_9_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studymaterials/.idea/libraries/Maven__io_vavr_vavr_match_0_9_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studymaterials/.idea/libraries/Maven__io_zipkin_brave_brave_5_6_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studymaterials/.idea/libraries/Maven__io_zipkin_brave_brave_instrumentation_http_5_6_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studymaterials/.idea/libraries/Maven__io_zipkin_brave_brave_instrumentation_okhttp3_5_6_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studymaterials/.idea/libraries/Maven__io_zipkin_reporter2_zipkin_reporter_2_7_14.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studymaterials/.idea/libraries/Maven__io_zipkin_reporter2_zipkin_sender_kafka11_2_7_14.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studymaterials/.idea/libraries/Maven__io_zipkin_reporter2_zipkin_sender_okhttp3_2_7_14.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studymaterials/.idea/libraries/Maven__io_zipkin_zipkin2_zipkin_2_12_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studymaterials/.idea/libraries/Maven__javax_activation_activation_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studymaterials/.idea/libraries/Maven__javax_activation_javax_activation_api_1_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studymaterials/.idea/libraries/Maven__javax_annotation_javax_annotation_api_1_3_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studymaterials/.idea/libraries/Maven__javax_inject_javax_inject_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studymaterials/.idea/libraries/Maven__javax_mail_mailapi_1_4_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studymaterials/.idea/libraries/Maven__javax_validation_validation_api_2_0_1_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studymaterials/.idea/libraries/Maven__javax_ws_rs_jsr311_api_1_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studymaterials/.idea/libraries/Maven__javax_xml_bind_jaxb_api_2_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studymaterials/.idea/libraries/Maven__joda_time_joda_time_2_10_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studymaterials/.idea/libraries/Maven__junit_junit_4_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studymaterials/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_9_16.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studymaterials/.idea/libraries/Maven__net_bytebuddy_byte_buddy_agent_1_9_16.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studymaterials/.idea/libraries/Maven__net_minidev_accessors_smart_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studymaterials/.idea/libraries/Maven__net_minidev_json_smart_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studymaterials/.idea/libraries/Maven__net_sf_jopt_simple_jopt_simple_5_0_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studymaterials/.idea/libraries/Maven__nl_jworks_markdown_to_asciidoc_markdown_to_asciidoc_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studymaterials/.idea/libraries/Maven__org_antlr_antlr_runtime_3_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studymaterials/.idea/libraries/Maven__org_antlr_stringtemplate_3_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studymaterials/.idea/libraries/Maven__org_apache_commons_commons_collections4_4_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studymaterials/.idea/libraries/Maven__org_apache_commons_commons_configuration2_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studymaterials/.idea/libraries/Maven__org_apache_commons_commons_jexl_2_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studymaterials/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_8_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studymaterials/.idea/libraries/Maven__org_apache_commons_commons_math_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studymaterials/.idea/libraries/Maven__org_apache_commons_commons_pool2_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studymaterials/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studymaterials/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studymaterials/.idea/libraries/Maven__org_apache_httpcomponents_httpmime_4_5_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studymaterials/.idea/libraries/Maven__org_apache_kafka_kafka_clients_2_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studymaterials/.idea/libraries/Maven__org_apache_logging_log4j_log4j_api_2_11_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studymaterials/.idea/libraries/Maven__org_apache_logging_log4j_log4j_to_slf4j_2_11_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studymaterials/.idea/libraries/Maven__org_apache_poi_poi_3_17.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studymaterials/.idea/libraries/Maven__org_apache_poi_poi_ooxml_3_17.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studymaterials/.idea/libraries/Maven__org_apache_poi_poi_ooxml_schemas_3_17.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studymaterials/.idea/libraries/Maven__org_apache_rocketmq_rocketmq_client_4_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studymaterials/.idea/libraries/Maven__org_apache_rocketmq_rocketmq_common_4_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studymaterials/.idea/libraries/Maven__org_apache_rocketmq_rocketmq_logging_4_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studymaterials/.idea/libraries/Maven__org_apache_rocketmq_rocketmq_remoting_4_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studymaterials/.idea/libraries/Maven__org_apache_shiro_shiro_core_1_3_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studymaterials/.idea/libraries/Maven__org_apache_shiro_shiro_spring_1_3_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studymaterials/.idea/libraries/Maven__org_apache_shiro_shiro_web_1_3_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studymaterials/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_9_0_24.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studymaterials/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_el_9_0_24.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studymaterials/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_9_0_24.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studymaterials/.idea/libraries/Maven__org_apache_xmlbeans_xmlbeans_2_6_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studymaterials/.idea/libraries/Maven__org_asciidoctor_asciidoctorj_1_5_3_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studymaterials/.idea/libraries/Maven__org_asciidoctor_asciidoctorj_pdf_1_5_0_alpha_10_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studymaterials/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_9_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studymaterials/.idea/libraries/Maven__org_assertj_assertj_core_3_11_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studymaterials/.idea/libraries/Maven__org_bouncycastle_bcpkix_jdk15on_1_59.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studymaterials/.idea/libraries/Maven__org_bouncycastle_bcprov_jdk15on_1_59.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studymaterials/.idea/libraries/Maven__org_codehaus_jettison_jettison_1_3_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studymaterials/.idea/libraries/Maven__org_codehaus_woodstox_stax2_api_3_1_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studymaterials/.idea/libraries/Maven__org_ehcache_ehcache_3_6_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studymaterials/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studymaterials/.idea/libraries/Maven__org_hamcrest_hamcrest_library_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studymaterials/.idea/libraries/Maven__org_hdrhistogram_HdrHistogram_2_1_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studymaterials/.idea/libraries/Maven__org_hibernate_validator_hibernate_validator_6_0_16_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studymaterials/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_3_3_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studymaterials/.idea/libraries/Maven__org_jodd_jodd_core_3_7_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studymaterials/.idea/libraries/Maven__org_jodd_jodd_http_3_7_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studymaterials/.idea/libraries/Maven__org_jodd_jodd_upload_3_7_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studymaterials/.idea/libraries/Maven__org_jruby_jruby_complete_1_7_21.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studymaterials/.idea/libraries/Maven__org_json_json_20170516.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studymaterials/.idea/libraries/Maven__org_jsoup_jsoup_1_8_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studymaterials/.idea/libraries/Maven__org_latencyutils_LatencyUtils_2_0_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studymaterials/.idea/libraries/Maven__org_lz4_lz4_java_1_4_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studymaterials/.idea/libraries/Maven__org_mapstruct_mapstruct_1_2_0_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studymaterials/.idea/libraries/Maven__org_mapstruct_mapstruct_jdk8_1_2_0_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studymaterials/.idea/libraries/Maven__org_mockito_mockito_core_2_23_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studymaterials/.idea/libraries/Maven__org_mozilla_rhino_1_7R4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studymaterials/.idea/libraries/Maven__org_mybatis_mybatis_3_5_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studymaterials/.idea/libraries/Maven__org_mybatis_mybatis_spring_2_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studymaterials/.idea/libraries/Maven__org_objenesis_objenesis_2_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studymaterials/.idea/libraries/Maven__org_ow2_asm_asm_5_0_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studymaterials/.idea/libraries/Maven__org_ow2_asm_asm_analysis_4_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studymaterials/.idea/libraries/Maven__org_ow2_asm_asm_tree_4_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studymaterials/.idea/libraries/Maven__org_ow2_asm_asm_util_4_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studymaterials/.idea/libraries/Maven__org_parboiled_parboiled_core_1_1_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studymaterials/.idea/libraries/Maven__org_parboiled_parboiled_java_1_1_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studymaterials/.idea/libraries/Maven__org_pegdown_pegdown_1_4_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studymaterials/.idea/libraries/Maven__org_postgresql_postgresql_42_2_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studymaterials/.idea/libraries/Maven__org_projectlombok_lombok_1_18_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studymaterials/.idea/libraries/Maven__org_reactivestreams_reactive_streams_1_0_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studymaterials/.idea/libraries/Maven__org_skyscreamer_jsonassert_1_5_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studymaterials/.idea/libraries/Maven__org_slf4j_jcl_over_slf4j_1_7_28.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studymaterials/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_28.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studymaterials/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_28.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studymaterials/.idea/libraries/Maven__org_slf4j_slf4j_ext_1_7_28.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studymaterials/.idea/libraries/Maven__org_springframework_boot_spring_boot_2_1_8_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studymaterials/.idea/libraries/Maven__org_springframework_boot_spring_boot_actuator_2_1_8_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studymaterials/.idea/libraries/Maven__org_springframework_boot_spring_boot_actuator_autoconfigure_2_1_8_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studymaterials/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_2_1_8_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studymaterials/.idea/libraries/Maven__org_springframework_boot_spring_boot_configuration_processor_2_1_8_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studymaterials/.idea/libraries/Maven__org_springframework_boot_spring_boot_devtools_2_1_8_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studymaterials/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_2_1_8_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studymaterials/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_actuator_2_1_8_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studymaterials/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_aop_2_1_8_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studymaterials/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_data_redis_2_1_8_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studymaterials/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_jdbc_2_1_8_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studymaterials/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_json_2_1_8_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studymaterials/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_2_1_8_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studymaterials/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_test_2_1_8_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studymaterials/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_2_1_8_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studymaterials/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_2_1_8_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studymaterials/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_2_1_8_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studymaterials/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_autoconfigure_2_1_8_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studymaterials/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_commons_2_1_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studymaterials/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_context_2_1_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studymaterials/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_netflix_archaius_2_1_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studymaterials/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_netflix_eureka_client_2_1_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studymaterials/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_netflix_hystrix_2_1_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studymaterials/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_netflix_ribbon_2_1_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studymaterials/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_openfeign_core_2_1_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studymaterials/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_2_1_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studymaterials/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_netflix_archaius_2_1_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studymaterials/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_netflix_eureka_client_2_1_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studymaterials/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_netflix_hystrix_2_1_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studymaterials/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_netflix_ribbon_2_1_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studymaterials/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_openfeign_2_1_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studymaterials/.idea/libraries/Maven__org_springframework_data_spring_data_commons_2_1_10_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studymaterials/.idea/libraries/Maven__org_springframework_data_spring_data_keyvalue_2_1_10_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studymaterials/.idea/libraries/Maven__org_springframework_data_spring_data_redis_2_1_10_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studymaterials/.idea/libraries/Maven__org_springframework_plugin_spring_plugin_core_1_2_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studymaterials/.idea/libraries/Maven__org_springframework_plugin_spring_plugin_metadata_1_2_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studymaterials/.idea/libraries/Maven__org_springframework_security_spring_security_crypto_5_1_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studymaterials/.idea/libraries/Maven__org_springframework_security_spring_security_rsa_1_0_7_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studymaterials/.idea/libraries/Maven__org_springframework_spring_aop_5_1_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studymaterials/.idea/libraries/Maven__org_springframework_spring_beans_5_1_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studymaterials/.idea/libraries/Maven__org_springframework_spring_context_5_1_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studymaterials/.idea/libraries/Maven__org_springframework_spring_context_support_5_1_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studymaterials/.idea/libraries/Maven__org_springframework_spring_core_5_1_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studymaterials/.idea/libraries/Maven__org_springframework_spring_expression_5_1_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studymaterials/.idea/libraries/Maven__org_springframework_spring_jcl_5_1_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studymaterials/.idea/libraries/Maven__org_springframework_spring_jdbc_5_1_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studymaterials/.idea/libraries/Maven__org_springframework_spring_oxm_5_1_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studymaterials/.idea/libraries/Maven__org_springframework_spring_test_5_1_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studymaterials/.idea/libraries/Maven__org_springframework_spring_tx_5_1_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studymaterials/.idea/libraries/Maven__org_springframework_spring_web_5_1_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studymaterials/.idea/libraries/Maven__org_springframework_spring_webmvc_5_1_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studymaterials/.idea/libraries/Maven__org_xerial_snappy_snappy_java_1_1_7_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studymaterials/.idea/libraries/Maven__org_xmlunit_xmlunit_core_2_6_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studymaterials/.idea/libraries/Maven__org_yaml_snakeyaml_1_23.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studymaterials/.idea/libraries/Maven__stax_stax_api_1_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studymaterials/.idea/libraries/Maven__xml_apis_xml_apis_1_4_01.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studymaterials/.idea/libraries/Maven__xmlpull_xmlpull_1_1_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studymaterials/.idea/libraries/Maven__xpp3_xpp3_min_1_1_4c.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studymaterials/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studymaterials/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studymaterials/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studymaterials/studymaterials-api/studymaterials-api.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studymaterials/studymaterials-apiserver/studymaterials-apiserver.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studymaterials/studymaterials-bizservice/studymaterials-bizservice.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studymaterials/studymaterials-infrastructure/studymaterials-infrastructure.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studymaterials/studymaterials.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test1/src/com/tz/HelloWorld.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vue/.idea/vue.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vue/src/main/resource/image/a.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vue/src/main/resource/js/vue.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vue/src/main/vue/01-mustache语法.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vue/src/main/vue/02-v-once指令的使用.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vue/src/main/vue/03-v-html指令的使用.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vue/src/main/vue/04-v-text指令的使用.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vue/src/main/vue/05-pre标签.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vue/src/main/vue/06-v-cloak.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vue/src/main/vue/07-v-bind.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vue/src/main/vue/VueTemplate.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vue/src/main/vue/jisuqi计算器.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vue/src/main/vue/vue.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../utils/src/main/resources/static/vue/vue/vue.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../utils/src/main/resources/static/vue/vue/vue1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../utils/src/main/resources/vue/vue.min.js" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1YONEz7MonXQZbym5e01nC9EcoB" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.24125" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
+  </component>
+  <component name="RunManager" selected="Tomcat Server.Tomcat 9.0.31">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.tz.Main" />
+      <module name="jsonsort" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tz.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.tz.Test" />
+      <module name="jsonsort" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tz.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tomcat 9.0.31" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.31" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/jsonsort/" />
+      <option name="BROWSER_ID" value="98ca6316-2f89-46d9-a9e5-fa9e2b0625b3" />
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="jsonsort:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/jsonsort" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_jsonsort_2" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="54547" />
+      </RunnerSettings>
+      <RunnerSettings RunnerId="Debug with VisualVM">
+        <option name="DEBUG_PORT" value="54548" />
+        <option name="visualVMId" value="34116345926778" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug with VisualVM">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run with VisualVM">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="jsonsort:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.Test" />
+      <item itemvalue="Tomcat Server.Tomcat 9.0.31" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <option name="contentProportion" value="0.15850987" />
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Tomcat Server" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="23138d47-dc24-44b6-8455-ae8ae903f02a" name="Default Changelist" comment="" />
+      <created>1582809572825</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582809572825</updated>
+      <workItem from="1582809574606" duration="11489000" />
+      <workItem from="1582821939069" duration="4272000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="320" y="115" key="#Project_Structure" timestamp="1582822025177">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="320" y="115" key="#Project_Structure/0.0.1440.900@0.0.1440.900" timestamp="1582822025177" />
+    <state x="259" y="72" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1582822039096">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="259" y="72" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900@0.0.1440.900" timestamp="1582822039096" />
+    <state x="259" y="89" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.821@0.23.1440.821" timestamp="1582810317384" />
+    <state x="533" y="166" key="#com.intellij.ide.util.MemberChooser" timestamp="1582818321179">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="533" y="166" key="#com.intellij.ide.util.MemberChooser/0.0.1440.900@0.0.1440.900" timestamp="1582818321179" />
+    <state x="666" y="222" key="#com.intellij.util.ui.classpath.ChooseLibrariesDialog" timestamp="1582809785490">
+      <screen x="0" y="23" width="1440" height="816" />
+    </state>
+    <state x="666" y="222" key="#com.intellij.util.ui.classpath.ChooseLibrariesDialog/0.23.1440.816@0.23.1440.816" timestamp="1582809785490" />
+    <state x="465" y="313" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1582817545134">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="465" y="313" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1440.900@0.0.1440.900" timestamp="1582817545134" />
+    <state x="83" y="23" key="CommitChangelistDialog2" timestamp="1582851716467">
+      <screen x="0" y="23" width="1440" height="822" />
+    </state>
+    <state x="83" y="23" key="CommitChangelistDialog2/0.23.1440.822@0.23.1440.822" timestamp="1582851716467" />
+    <state width="1151" height="309" key="GridCell.Tab.0.bottom" timestamp="1582850628901">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state width="1123" height="334" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1582822151653" />
+    <state width="1123" height="322" key="GridCell.Tab.0.bottom/0.23.1440.814@0.23.1440.814" timestamp="1582849277501" />
+    <state width="1123" height="456" key="GridCell.Tab.0.bottom/0.23.1440.816@0.23.1440.816" timestamp="1582821465827" />
+    <state width="1151" height="309" key="GridCell.Tab.0.bottom/0.23.1440.821@0.23.1440.821" timestamp="1582850628901" />
+    <state width="831" height="290" key="GridCell.Tab.0.bottom/0.23.1440.825@0.23.1440.825" timestamp="1582820402566" />
+    <state width="831" height="22" key="GridCell.Tab.0.bottom/0.23.1440.826@0.23.1440.826" timestamp="1582820258702" />
+    <state width="1151" height="309" key="GridCell.Tab.0.center" timestamp="1582850628890">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state width="1123" height="334" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1582822151651" />
+    <state width="1123" height="322" key="GridCell.Tab.0.center/0.23.1440.814@0.23.1440.814" timestamp="1582849277500" />
+    <state width="1123" height="456" key="GridCell.Tab.0.center/0.23.1440.816@0.23.1440.816" timestamp="1582821465826" />
+    <state width="1151" height="309" key="GridCell.Tab.0.center/0.23.1440.821@0.23.1440.821" timestamp="1582850628890" />
+    <state width="831" height="290" key="GridCell.Tab.0.center/0.23.1440.825@0.23.1440.825" timestamp="1582820402565" />
+    <state width="831" height="22" key="GridCell.Tab.0.center/0.23.1440.826@0.23.1440.826" timestamp="1582820258702" />
+    <state width="1151" height="309" key="GridCell.Tab.0.left" timestamp="1582850628881">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state width="1123" height="334" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1582822151650" />
+    <state width="1123" height="322" key="GridCell.Tab.0.left/0.23.1440.814@0.23.1440.814" timestamp="1582849277500" />
+    <state width="1123" height="456" key="GridCell.Tab.0.left/0.23.1440.816@0.23.1440.816" timestamp="1582821465824" />
+    <state width="1151" height="309" key="GridCell.Tab.0.left/0.23.1440.821@0.23.1440.821" timestamp="1582850628881" />
+    <state width="831" height="290" key="GridCell.Tab.0.left/0.23.1440.825@0.23.1440.825" timestamp="1582820402565" />
+    <state width="831" height="22" key="GridCell.Tab.0.left/0.23.1440.826@0.23.1440.826" timestamp="1582820258701" />
+    <state width="1151" height="309" key="GridCell.Tab.0.right" timestamp="1582850628890">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state width="1123" height="334" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1582822151652" />
+    <state width="1123" height="322" key="GridCell.Tab.0.right/0.23.1440.814@0.23.1440.814" timestamp="1582849277501" />
+    <state width="1123" height="456" key="GridCell.Tab.0.right/0.23.1440.816@0.23.1440.816" timestamp="1582821465826" />
+    <state width="1151" height="309" key="GridCell.Tab.0.right/0.23.1440.821@0.23.1440.821" timestamp="1582850628890" />
+    <state width="831" height="290" key="GridCell.Tab.0.right/0.23.1440.825@0.23.1440.825" timestamp="1582820402566" />
+    <state width="831" height="22" key="GridCell.Tab.0.right/0.23.1440.826@0.23.1440.826" timestamp="1582820258702" />
+    <state width="1151" height="309" key="GridCell.Tab.1.bottom" timestamp="1582850612799">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state width="1123" height="334" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1582822151464" />
+    <state width="1123" height="322" key="GridCell.Tab.1.bottom/0.23.1440.814@0.23.1440.814" timestamp="1582849277394" />
+    <state width="831" height="185" key="GridCell.Tab.1.bottom/0.23.1440.816@0.23.1440.816" timestamp="1582820830344" />
+    <state width="1151" height="309" key="GridCell.Tab.1.bottom/0.23.1440.821@0.23.1440.821" timestamp="1582850612799" />
+    <state width="831" height="290" key="GridCell.Tab.1.bottom/0.23.1440.825@0.23.1440.825" timestamp="1582820402567" />
+    <state width="831" height="22" key="GridCell.Tab.1.bottom/0.23.1440.826@0.23.1440.826" timestamp="1582820258388" />
+    <state width="1151" height="309" key="GridCell.Tab.1.center" timestamp="1582850612798">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state width="1123" height="334" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1582822151458" />
+    <state width="1123" height="322" key="GridCell.Tab.1.center/0.23.1440.814@0.23.1440.814" timestamp="1582849277393" />
+    <state width="831" height="185" key="GridCell.Tab.1.center/0.23.1440.816@0.23.1440.816" timestamp="1582820830343" />
+    <state width="1151" height="309" key="GridCell.Tab.1.center/0.23.1440.821@0.23.1440.821" timestamp="1582850612798" />
+    <state width="831" height="290" key="GridCell.Tab.1.center/0.23.1440.825@0.23.1440.825" timestamp="1582820402566" />
+    <state width="831" height="22" key="GridCell.Tab.1.center/0.23.1440.826@0.23.1440.826" timestamp="1582820258387" />
+    <state width="1151" height="309" key="GridCell.Tab.1.left" timestamp="1582850612798">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state width="1123" height="334" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1582822151457" />
+    <state width="1123" height="322" key="GridCell.Tab.1.left/0.23.1440.814@0.23.1440.814" timestamp="1582849277393" />
+    <state width="831" height="185" key="GridCell.Tab.1.left/0.23.1440.816@0.23.1440.816" timestamp="1582820830343" />
+    <state width="1151" height="309" key="GridCell.Tab.1.left/0.23.1440.821@0.23.1440.821" timestamp="1582850612798" />
+    <state width="831" height="290" key="GridCell.Tab.1.left/0.23.1440.825@0.23.1440.825" timestamp="1582820402566" />
+    <state width="831" height="22" key="GridCell.Tab.1.left/0.23.1440.826@0.23.1440.826" timestamp="1582820258386" />
+    <state width="1151" height="309" key="GridCell.Tab.1.right" timestamp="1582850612799">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state width="1123" height="334" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1582822151462" />
+    <state width="1123" height="322" key="GridCell.Tab.1.right/0.23.1440.814@0.23.1440.814" timestamp="1582849277394" />
+    <state width="831" height="185" key="GridCell.Tab.1.right/0.23.1440.816@0.23.1440.816" timestamp="1582820830343" />
+    <state width="1151" height="309" key="GridCell.Tab.1.right/0.23.1440.821@0.23.1440.821" timestamp="1582850612799" />
+    <state width="831" height="290" key="GridCell.Tab.1.right/0.23.1440.825@0.23.1440.825" timestamp="1582820402566" />
+    <state width="831" height="22" key="GridCell.Tab.1.right/0.23.1440.826@0.23.1440.826" timestamp="1582820258387" />
+    <state width="1151" height="309" key="GridCell.Tab.2.bottom" timestamp="1582850612800">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state width="1123" height="334" key="GridCell.Tab.2.bottom/0.0.1440.900@0.0.1440.900" timestamp="1582822151479" />
+    <state width="1123" height="322" key="GridCell.Tab.2.bottom/0.23.1440.814@0.23.1440.814" timestamp="1582849277396" />
+    <state width="831" height="185" key="GridCell.Tab.2.bottom/0.23.1440.816@0.23.1440.816" timestamp="1582820821612" />
+    <state width="1151" height="309" key="GridCell.Tab.2.bottom/0.23.1440.821@0.23.1440.821" timestamp="1582850612800" />
+    <state width="831" height="290" key="GridCell.Tab.2.bottom/0.23.1440.825@0.23.1440.825" timestamp="1582820402568" />
+    <state width="831" height="22" key="GridCell.Tab.2.bottom/0.23.1440.826@0.23.1440.826" timestamp="1582820258389" />
+    <state width="1151" height="309" key="GridCell.Tab.2.center" timestamp="1582850612799">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state width="1123" height="334" key="GridCell.Tab.2.center/0.0.1440.900@0.0.1440.900" timestamp="1582822151470" />
+    <state width="1123" height="322" key="GridCell.Tab.2.center/0.23.1440.814@0.23.1440.814" timestamp="1582849277396" />
+    <state width="831" height="185" key="GridCell.Tab.2.center/0.23.1440.816@0.23.1440.816" timestamp="1582820821612" />
+    <state width="1151" height="309" key="GridCell.Tab.2.center/0.23.1440.821@0.23.1440.821" timestamp="1582850612799" />
+    <state width="831" height="290" key="GridCell.Tab.2.center/0.23.1440.825@0.23.1440.825" timestamp="1582820402567" />
+    <state width="831" height="22" key="GridCell.Tab.2.center/0.23.1440.826@0.23.1440.826" timestamp="1582820258388" />
+    <state width="1151" height="309" key="GridCell.Tab.2.left" timestamp="1582850612799">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state width="1123" height="334" key="GridCell.Tab.2.left/0.0.1440.900@0.0.1440.900" timestamp="1582822151466" />
+    <state width="1123" height="322" key="GridCell.Tab.2.left/0.23.1440.814@0.23.1440.814" timestamp="1582849277395" />
+    <state width="831" height="185" key="GridCell.Tab.2.left/0.23.1440.816@0.23.1440.816" timestamp="1582820821611" />
+    <state width="1151" height="309" key="GridCell.Tab.2.left/0.23.1440.821@0.23.1440.821" timestamp="1582850612799" />
+    <state width="831" height="290" key="GridCell.Tab.2.left/0.23.1440.825@0.23.1440.825" timestamp="1582820402567" />
+    <state width="831" height="22" key="GridCell.Tab.2.left/0.23.1440.826@0.23.1440.826" timestamp="1582820258388" />
+    <state width="1151" height="309" key="GridCell.Tab.2.right" timestamp="1582850612800">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state width="1123" height="334" key="GridCell.Tab.2.right/0.0.1440.900@0.0.1440.900" timestamp="1582822151471" />
+    <state width="1123" height="322" key="GridCell.Tab.2.right/0.23.1440.814@0.23.1440.814" timestamp="1582849277396" />
+    <state width="831" height="185" key="GridCell.Tab.2.right/0.23.1440.816@0.23.1440.816" timestamp="1582820821612" />
+    <state width="1151" height="309" key="GridCell.Tab.2.right/0.23.1440.821@0.23.1440.821" timestamp="1582850612800" />
+    <state width="831" height="290" key="GridCell.Tab.2.right/0.23.1440.825@0.23.1440.825" timestamp="1582820402567" />
+    <state width="831" height="22" key="GridCell.Tab.2.right/0.23.1440.826@0.23.1440.826" timestamp="1582820258389" />
+    <state width="1123" height="456" key="GridCell.Tab.3.bottom" timestamp="1582821455333">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1123" height="456" key="GridCell.Tab.3.bottom/0.0.1440.900@0.0.1440.900" timestamp="1582821455333" />
+    <state width="831" height="185" key="GridCell.Tab.3.bottom/0.23.1440.816@0.23.1440.816" timestamp="1582820821614" />
+    <state width="1123" height="456" key="GridCell.Tab.3.center" timestamp="1582821455332">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1123" height="456" key="GridCell.Tab.3.center/0.0.1440.900@0.0.1440.900" timestamp="1582821455332" />
+    <state width="831" height="185" key="GridCell.Tab.3.center/0.23.1440.816@0.23.1440.816" timestamp="1582820821613" />
+    <state width="1123" height="456" key="GridCell.Tab.3.left" timestamp="1582821455332">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1123" height="456" key="GridCell.Tab.3.left/0.0.1440.900@0.0.1440.900" timestamp="1582821455332" />
+    <state width="831" height="185" key="GridCell.Tab.3.left/0.23.1440.816@0.23.1440.816" timestamp="1582820821613" />
+    <state width="1123" height="456" key="GridCell.Tab.3.right" timestamp="1582821455332">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1123" height="456" key="GridCell.Tab.3.right/0.0.1440.900@0.0.1440.900" timestamp="1582821455332" />
+    <state width="831" height="185" key="GridCell.Tab.3.right/0.23.1440.816@0.23.1440.816" timestamp="1582820821614" />
+    <state x="110" y="0" width="1024" height="816" key="SettingsEditor" timestamp="1582822013906">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="110" y="0" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1582822013906" />
+    <state x="416" y="23" width="1024" height="816" key="SettingsEditor/0.23.1440.816@0.23.1440.816" timestamp="1582809805716" />
+    <state x="397" y="282" key="com.intellij.ide.util.TipDialog" timestamp="1582821939609">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="397" y="282" key="com.intellij.ide.util.TipDialog/0.0.1440.900@0.0.1440.900" timestamp="1582821939609" />
+    <state x="458" y="220" key="extract.method.dialog" timestamp="1582820031881">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="458" y="220" key="extract.method.dialog/0.0.1440.900@0.0.1440.900" timestamp="1582820031881" />
+  </component>
+</project>

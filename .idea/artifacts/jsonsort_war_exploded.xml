@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="jsonsort:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/jsonsort_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="jsonsort/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="jsonsort" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
